@@ -1,4 +1,4 @@
-# TUe-EdTech
+# TU/e-EdTech
 
 This GitHub organization is the place to discover and share Educational Technologies (EdTech) developed at Eindhoven University of Technology (TU/e).
 
