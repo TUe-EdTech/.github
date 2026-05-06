@@ -2,7 +2,7 @@
 
 This GitHub organization is the place to discover and share Educational Technologies (EdTech) developed at Eindhoven University of Technology (TU/e).
 
-Through TU/e’s [DRIVE program](https://drive.tue.nl/drive)—which fosters innovation in education by supporting educators to improve teaching through the development and integration of digital tools—we collect and showcase EdTech created by TU/e educators, researchers, and staff. These tools are designed to enhance teaching, learning, and assessment, both within TU/e and beyond.
+Through TU/e’s [DRIVE program](https://drive.tue.nl/drive) — focused on innovation in education by supporting educators to improve teaching and learning through the development and integration of digital tools — we collect and showcase EdTech created by TU/e educators, researchers, and staff. These tools are designed to enhance teaching, learning, and assessment, both within TU/e and beyond.
 
 ---
 
@@ -10,16 +10,7 @@ Through TU/e’s [DRIVE program](https://drive.tue.nl/drive)—which fosters inn
 - **🏠 Repositories**: EdTech tools hosted directly in this organization.
 - **🔗 External links**: Educational tools created by people affiliated with TU/e and hosted elsewhere (GitLab, websites, etc.).
 
-All tools are **open for reuse** (check individual licenses) and aimed at educators.
-
----
-
-## 📂 Featured Tools
-   Tool | Type | Description | Link |
- |------|------|-------------|------|
- | Peer Feedback Tool | 🏠 | Automate peer reviews in Canvas | [Repo](#) |
- | AR Chemistry Lab | 🔗 | VR lab for chemistry experiments | [GitLab](#) |
- | Python Autograder | 🏠 | Auto-grade Python assignments | [Repo](#) |
+All tools are **open for reuse** (depending on licenses) and aimed at educators.
 
 ---
 ## ✅ Share Your EdTech
