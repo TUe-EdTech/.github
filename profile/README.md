@@ -29,15 +29,3 @@ All tools are **open for reuse** (depending on licenses) and aimed at educators.
    - URL
    - Short description
 2. We’ll add it to the list above.
-
----
-## 📜 README Template for Your Tool
-```markdown
-# [Tool Name]
-
-**One sentence: What does this tool do?**
-
-🔗 **Try it**: [Demo/Link](#)
-📖 **How to use**: [Instructions](#)
-📧 **Contact**: [name@tue.nl](#)
-📜 **License**: [MIT](#)
