@@ -7,11 +7,6 @@ This GitHub organization is a **central hub** for discovering, sharing, and pres
 
 Our goal: **Make TU/e's EdTech innovations reusable, sustainable, and visible**â€”for educators at TU/e and beyond.
 
-> **Note**: This is a **semi-passive organization**.
-> - We manage repository creation, archiving, and curation.
-> - We **do not** monitor issues or pull requests.
-> - **You** can fork, reuse, or adapt any repository (subject to its license).
-
 ---
 
 ## Why This GitHub?
@@ -40,11 +35,6 @@ Our goal: **Make TU/e's EdTech innovations reusable, sustainable, and visible**â
 1. **Host here**: Email [DRIVE](mailto:k.m.a.aarts@tue.nl) with your tool's name, description, and preferred license.
 2. **Link externally**: Email the same address with tool name, URL, description, and license.
 3. **Archive a repo**: Request archiving via email.
-
-### Improve the Ecosystem
-- **Suggest a featured project**: Open a discussion in [awesome-tue-edtech](https://github.com/TUe-EdTech/awesome-tue-edtech).
-- **Report issues**: Contact the **repository maintainers** directly (not this org).
-- **Fork and contribute**: All repos are forkable!
 
 ### Get Started with Open Source
 New to GitHub or open source? Check out our **[Getting Started Guide](https://github.com/TUe-EdTech/getting-started)**.
