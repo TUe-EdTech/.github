@@ -1,31 +1,59 @@
-# TU/e-EdTech
+# TU/e EdTech
+**Open Educational Technologies from Eindhoven University of Technology**
 
-This GitHub organization is the place to discover and share Educational Technologies (EdTech) developed at Eindhoven University of Technology (TU/e).
+![TU/e EdTech Banner](https://via.placeholder.com/1200x400/003d7a/ffffff?text=TU/e+EdTech) *(Replace with actual banner image)*
 
-Through TU/e’s [DRIVE program](https://drive.tue.nl/drive) — focused on innovation in education by supporting educators to improve teaching and learning through the development and integration of digital tools — we collect and showcase EdTech created by TU/e educators, researchers, and staff. These tools are designed to enhance teaching, learning, and assessment, both within TU/e and beyond.
+---
+
+## Welcome
+This GitHub organization is a **central hub** for discovering, sharing, and preserving **Educational Technologies (EdTech)** created by TU/e educators, researchers, and staff—primarily through the **[DRIVE program](https://drive.tue.nl/drive)**.
+
+Our goal: **Make TU/e's EdTech innovations reusable, sustainable, and visible**—for educators at TU/e and beyond.
+
+> **Note**: This is a **semi-passive organization**.
+> - We manage repository creation, archiving, and curation.
+> - We **do not** monitor issues or pull requests.
+> - **You** can fork, reuse, or adapt any repository (subject to its license).
 
 ---
 
-## 🔍 What You’ll Find Here
-- **🏠 Repositories**: EdTech tools hosted directly in this organization.
-- **🔗 External links**: Educational tools created by people affiliated with TU/e and hosted elsewhere (GitLab, websites, etc.).
-
-All tools are **open for reuse** (depending on licenses) and aimed at educators.
+## Why This GitHub?
+- **Discover**: Find EdTech tools developed at TU/e, whether **hosted here** or **externally**.
+- **Reuse**: All tools are **open for reuse** (check individual licenses).
+- **Preserve**: **Archived repositories** ensure valuable tools remain accessible even if no longer maintained.
+- **Collaborate**: Fork and build upon existing work.
 
 ---
-## ✅ Share Your EdTech
 
-### **Host a tool here**
-1. Email [DRIVE](mailto:k.m.a.aarts@tue.nl) with your tool’s name and a short description.
-2. We’ll create a repository and add you as a maintainer.
-3. Add a simple `README.md` explaining:
-   - What the tool does
-   - How to use it
-   - Its license
+## Featured Projects
+*Highlight 3-5 standout tools from the [Awesome TU/e EdTech](https://github.com/TUe-EdTech/awesome-tue-edtech) list.*
 
-### **Link an external tool**
-1. Email [DRIVE](mailto:k.m.a.aarts@tue.nl) with:
-   - Tool name
-   - URL
-   - Short description
-2. We’ll add it to the list above.
+| Project | Description | Status | License |
+|---------|-------------|--------|---------|
+| **[Tool A](#)** | Solves X for Y audience. | Active | MIT |
+| **[Tool B](#)** | Focuses on Z. | Archived | CC-BY |
+| **[Tool C](#)** | External tool for W. | External | GPL-3.0 |
+
+> *See the full list in our **[Awesome TU/e EdTech](https://github.com/TUe-EdTech/awesome-tue-edtech)** repository.*
+
+---
+
+## Contributing
+### Add Your EdTech
+1. **Host here**: Email [DRIVE](mailto:k.m.a.aarts@tue.nl) with your tool's name, description, and preferred license.
+2. **Link externally**: Email the same address with tool name, URL, description, and license.
+3. **Archive a repo**: Request archiving via email.
+
+### Improve the Ecosystem
+- **Suggest a featured project**: Open a discussion in [awesome-tue-edtech](https://github.com/TUe-EdTech/awesome-tue-edtech).
+- **Report issues**: Contact the **repository maintainers** directly (not this org).
+- **Fork and contribute**: All repos are forkable!
+
+### Get Started with Open Source
+New to GitHub or open source? Check out our **[Getting Started Guide](https://github.com/TUe-EdTech/getting-started)**.
+
+### Open Source EdTech Best Practices
+Learn how to **open-source your EdTech** in our **[OS EdTech Guide](https://github.com/TUe-EdTech/open-source-edtech)**.
+
+---
+*Maintained by [DRIVE](https://drive.tue.nl/drive) at TU/e.*
