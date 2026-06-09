@@ -1,11 +1,8 @@
-# TU/e EdTech
+# Welcome to TU/e EdTech 👋
 **Open Educational Technologies from Eindhoven University of Technology**
 
-![TU/e EdTech Banner](https://via.placeholder.com/1200x400/003d7a/ffffff?text=TU/e+EdTech) *(Replace with actual banner image)*
+![TU/e EdTech Banner](https://github.com/TUe-EdTech/.github/blob/faae459712a48d86a59830d8c7171e06ab1b3b83/images/bcvzpxvjxeikgmx1z3d9tq.jpg)
 
----
-
-## Welcome
 This GitHub organization is a **central hub** for discovering, sharing, and preserving **Educational Technologies (EdTech)** created by TU/e educators, researchers, and staff—primarily through the **[DRIVE program](https://drive.tue.nl/drive)**.
 
 Our goal: **Make TU/e's EdTech innovations reusable, sustainable, and visible**—for educators at TU/e and beyond.
@@ -26,7 +23,7 @@ Our goal: **Make TU/e's EdTech innovations reusable, sustainable, and visible**�
 ---
 
 ## Featured Projects
-*Highlight 3-5 standout tools from the [Awesome TU/e EdTech](https://github.com/TUe-EdTech/awesome-tue-edtech) list.*
+*Highlighed tools from the [Awesome TU/e EdTech](https://github.com/TUe-EdTech/awesome-tue-edtech) list.*
 
 | Project | Description | Status | License |
 |---------|-------------|--------|---------|
@@ -57,3 +54,7 @@ Learn how to **open-source your EdTech** in our **[OS EdTech Guide](https://gith
 
 ---
 *Maintained by [DRIVE](https://drive.tue.nl/drive) at TU/e.*
+
+<a href="https://www.drive.tue.nl/drive">
+  <img src="https://github.com/TUe-EdTech/.github/raw/f27eb4e67b6898fea70b6fecc71c59c86aea14b4/images/DRIVE%20Logo%20Rectangle.png" alt="Image Alt" height="30em" />
+</a>
