@@ -4,9 +4,7 @@
 ![TU/e EdTech Banner](https://github.com/TUe-EdTech/.github/blob/faae459712a48d86a59830d8c7171e06ab1b3b83/images/bcvzpxvjxeikgmx1z3d9tq.jpg)<br>
 *©Bart van Overbeeke Photography*
 
-This GitHub organization is a **central hub** for discovering, sharing, and preserving **Educational Technologies (EdTech)** created by TU/e educators, researchers, and staff—primarily through the **[DRIVE program](https://drive.tue.nl/drive)**.
-
-Our goal: **Make TU/e's EdTech innovations reusable, sustainable, and visible** - for educators at TU/e and beyond.
+This GitHub organization is a **central hub** for discovering, sharing, and preserving **Educational Technologies (EdTech)** created by TU/e educators, researchers, and staff. These initiatives come from programs such as **[DRIVE](https://drive.tue.nl/drive)**, but also from individual initiatives at our university.
 
 ---
 
