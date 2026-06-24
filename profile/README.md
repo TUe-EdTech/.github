@@ -6,7 +6,6 @@
 
 This GitHub organization is a **central hub** for discovering, sharing, and preserving **Educational Technologies (EdTech)** created by TU/e educators, researchers, and staff. These initiatives come from programs such as **[DRIVE](https://drive.tue.nl/drive)**, but also from individual initiatives at our university.
 
----
 
 ## Why This GitHub?
 - **Discover**: Find EdTech tools developed at TU/e, whether **hosted here** or **externally**.
@@ -14,7 +13,6 @@ This GitHub organization is a **central hub** for discovering, sharing, and pres
 - **Preserve**: **Archived repositories** ensure valuable tools remain accessible even if no longer maintained.
 - **Collaborate**: Fork and build upon existing work.
 
----
 
 ## Featured Projects
 *Highlighed tools from the [Awesome TU/e EdTech](https://github.com/TUe-EdTech/awesome-tue-edtech) list.*
@@ -27,7 +25,6 @@ This GitHub organization is a **central hub** for discovering, sharing, and pres
 
 > *See the full list in our **[Awesome TU/e EdTech](https://github.com/TUe-EdTech/awesome-tue-edtech)** repository.*
 
----
 
 ## Contributing
 ### Add Your EdTech
