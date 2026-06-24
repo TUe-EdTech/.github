@@ -44,6 +44,6 @@ Learn how to **open-source your EdTech** in our **[OS EdTech Guide](https://gith
 ---
 *Maintained by [DRIVE](https://drive.tue.nl/drive) at TU/e.*
 
-<a href=drive.tue.nl/drive>
+<a href="https://drive.tue.nl/drive/" target="_blank">
   <img src="https://github.com/TUe-EdTech/.github/raw/f27eb4e67b6898fea70b6fecc71c59c86aea14b4/images/DRIVE%20Logo%20Rectangle.png" alt="Image Alt" height="30em" />
 </a>
