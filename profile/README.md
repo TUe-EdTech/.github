@@ -15,11 +15,11 @@ This GitHub organization is a **central hub** for discovering, sharing, and pres
 ## Featured Projects
 *Highlighed tools from the [Awesome TU/e EdTech](https://github.com/TUe-EdTech/awesome-tue-edtech) list.*
 
-| Project | Description | Status | License |
-|---------|-------------|--------|---------|
-| **[Tool A](#)** | Solves X for Y audience. | Active | ![MIT](https://img.shields.io/badge/License-MIT-yellow.svg) |
-| **[Tool B](#)** | Focuses on Z. | Active | ![GPL-3.0](https://img.shields.io/badge/License-GPLv3-blue.svg) |
-| **[Tool C](#)** | External tool for W. | Archived | ![Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg) |
+| Project | Description | License |
+|---------|-------------|---------|
+| **[Automated assessment and feedback systems](https://drive.tue.nl/projects/automated-assessment-and-feedback-systems/)** | AI-based automated assessment system that grades programming assignments and provides detailed feedback for TU/e's Machine Learning for Signal Processing course in the Department of Electrical Engineering. | ![MIT](https://img.shields.io/badge/License-MIT-yellow.svg) |
+| **[eduMRIsim](https://drive.tue.nl/projects/educational-magnetic-resonance-imaging-simulator-edumrisim/)** | Open-source MRI simulator that mimics clinical workflows for hands-on MRI education at TU/e within the department of Biomedical Engineering. | ![GPL-3.0](https://img.shields.io/badge/License-GPLv3-blue.svg) |
+| **[Data Foundry](https://github.com/id-data-foundry/data-foundry)** | Data infrastructure platform built for the Eindhoven University of Technology Department of Industrial Design. | ![AGPLv3](https://img.shields.io/badge/license-AGPL--v3-blue) |
 
 > *See the full list in our **[Awesome TU/e EdTech](https://github.com/TUe-EdTech/awesome-tue-edtech)** repository.*
 
@@ -27,14 +27,14 @@ This GitHub organization is a **central hub** for discovering, sharing, and pres
 ## Contributing
 ### Add Your EdTech
 1. **Host here**: Email [DRIVE](mailto:k.m.a.aarts@tue.nl) with your tool's name, description, and preferred license.
-2. **Link externally**: Email the same address with tool name, URL, description, and license.
-3. **Archive a repo**: Request archiving via email.
+2. **Feature on our awesome list**: See our [contribution guidelines](https://github.com/TUe-EdTech/awesome-tue-edtech?tab=contributing-ov-file) for adding your project to the curated [awesome list](https://github.com/TUe-EdTech/awesome-tue-edtech).
+3. **Archive a repo**: See our [contribution guidelines](https://github.com/TUe-EdTech/open-source-archive?tab=contributing-ov-file) for archiving repos or linking your own archived repo to our [archived projects](https://github.com/TUe-EdTech/open-source-archive) page.
 
 ### Get Started with Open Source
-New to GitHub or open source? Check out the **[Getting Started Guide](https://docs.github.com/en/get-started)**.
+New to GitHub or open source? Check out the **[Getting Started Guide](https://docs.github.com/en/get-started)** and **[Open Source Guide for EdTech at TU/e](https://github.com/TUe-EdTech/open-sourcing-edtech)**.
 
-### Open Source EdTech Best Practices
-Learn how to **open-source your EdTech** in our **[Open Source Guide for EdTech at TU/e](https://github.com/TUe-EdTech/open-sourcing-edtech)**, tailored to TU/e processes, regulations and support.
+### Open Sourcing EdTech at TU/e
+Find out how to **open-source your EdTech** in our **[Open Source Guide for EdTech at TU/e](https://github.com/TUe-EdTech/open-sourcing-edtech)**, tailored to TU/e processes, regulations and support.
 
 ---
 *Maintained by [DRIVE](https://drive.tue.nl/drive) at TU/e.*
