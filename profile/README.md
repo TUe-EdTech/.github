@@ -19,9 +19,9 @@ This GitHub organization is a **central hub** for discovering, sharing, and pres
 
 | Project | Description | Status | License |
 |---------|-------------|--------|---------|
-| **[Tool A](#)** | Solves X for Y audience. | Active | MIT |
-| **[Tool B](#)** | Focuses on Z. | Archived | CC-BY |
-| **[Tool C](#)** | External tool for W. | External | GPL-3.0 |
+| **[Tool A](#)** | Solves X for Y audience. | Active | ![MIT](https://img.shields.io/badge/License-MIT-yellow.svg) |
+| **[Tool B](#)** | Focuses on Z. | Active | ![GPL-3.0](https://img.shields.io/badge/License-GPLv3-blue.svg) |
+| **[Tool C](#)** | External tool for W. | Archived | ![Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg) |
 
 > *See the full list in our **[Awesome TU/e EdTech](https://github.com/TUe-EdTech/awesome-tue-edtech)** repository.*
 
