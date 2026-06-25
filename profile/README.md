@@ -33,7 +33,7 @@ This GitHub organization is a **central hub** for discovering, sharing, and pres
 3. **Archive a repo**: Request archiving via email.
 
 ### Get Started with Open Source
-New to GitHub or open source? Check out our **[Getting Started Guide](https://github.com/TUe-EdTech/getting-started)**.
+New to GitHub or open source? Check out the **[Getting Started Guide](https://docs.github.com/en/get-started)**.
 
 ### Open Source EdTech Best Practices
 Learn how to **open-source your EdTech** in our **[Open Source Guide for EdTech at TU/e](https://github.com/TUe-EdTech/open-sourcing-edtech)**.
