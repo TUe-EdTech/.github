@@ -1,6 +1,4 @@
 # Welcome to TU/e EdTech 👋
-**Open Source Educational Technologies (EdTech) from Eindhoven University of Technology**
-
 ![TU/e EdTech Banner](https://github.com/TUe-EdTech/.github/blob/faae459712a48d86a59830d8c7171e06ab1b3b83/images/bcvzpxvjxeikgmx1z3d9tq.jpg)<br>
 *©Bart van Overbeeke Photography*
 
