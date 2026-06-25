@@ -36,7 +36,7 @@ This GitHub organization is a **central hub** for discovering, sharing, and pres
 New to GitHub or open source? Check out our **[Getting Started Guide](https://github.com/TUe-EdTech/getting-started)**.
 
 ### Open Source EdTech Best Practices
-Learn how to **open-source your EdTech** in our **[OS EdTech Guide](https://github.com/TUe-EdTech/open-source-edtech)**.
+Learn how to **open-source your EdTech** in our **[Open Source Guide for EdTech at TU/e](https://github.com/TUe-EdTech/open-sourcing-edtech)**.
 
 ---
 *Maintained by [DRIVE](https://drive.tue.nl/drive) at TU/e.*
