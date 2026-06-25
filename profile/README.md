@@ -1,4 +1,5 @@
 # Welcome to TU/e EdTech 👋
+![Status](https://img.shields.io/badge/status-work_in_progress-blue)
 ![TU/e EdTech Banner](https://github.com/TUe-EdTech/.github/blob/faae459712a48d86a59830d8c7171e06ab1b3b83/images/bcvzpxvjxeikgmx1z3d9tq.jpg)<br>
 *©Bart van Overbeeke Photography*
 
