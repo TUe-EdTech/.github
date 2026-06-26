@@ -14,7 +14,7 @@ This GitHub organization is a **central hub** for discovering, sharing, and pres
 
 
 ## Featured Projects
-*Highlighed tools from the [Awesome TU/e EdTech](https://github.com/TUe-EdTech/awesome-tue-edtech) list.*
+*Highlighted tools from the [Awesome TU/e EdTech](https://github.com/TUe-EdTech/awesome-tue-edtech) list.*
 
 | Project | Description | License |
 |---------|-------------|---------|
@@ -23,6 +23,7 @@ This GitHub organization is a **central hub** for discovering, sharing, and pres
 | **[Data Foundry](https://github.com/id-data-foundry/data-foundry)** | Data infrastructure platform built for the Eindhoven University of Technology Department of Industrial Design. | ![AGPLv3](https://img.shields.io/badge/license-AGPL--v3-blue) |
 
 > *See the full list in our **[Awesome TU/e EdTech](https://github.com/TUe-EdTech/awesome-tue-edtech)** repository.*
+> *Browse **[archived projects](https://github.com/TUe-EdTech/open-source-archive)** for finished DRIVE initiatives.*
 
 
 ## Contributing
@@ -36,6 +37,9 @@ New to GitHub or open source? Check out the **[Getting Started Guide](https://do
 
 ### Open Sourcing EdTech at TU/e
 Find out how to **open-source your EdTech** in our **[Open Source Guide for EdTech at TU/e](https://github.com/TUe-EdTech/open-sourcing-edtech)**, tailored to TU/e processes, regulations and support.
+
+### Archived Projects
+Explore finished DRIVE projects in our **[Open Source Archive](https://github.com/TUe-EdTech/open-source-archive)**.
 
 ---
 *Maintained by [DRIVE](https://drive.tue.nl/drive) at TU/e.*
