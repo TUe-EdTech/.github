@@ -14,7 +14,6 @@ This GitHub organization is a **central hub** for discovering, sharing, and pres
 
 
 ## Featured Projects
-*Highlighted tools from the [Awesome TU/e EdTech](https://github.com/TUe-EdTech/awesome-tue-edtech) list.*
 
 | Project | Description | License |
 |---------|-------------|---------|
@@ -23,7 +22,6 @@ This GitHub organization is a **central hub** for discovering, sharing, and pres
 | **[Data Foundry](https://github.com/id-data-foundry/data-foundry)** | Data infrastructure platform built for the Eindhoven University of Technology Department of Industrial Design. | ![AGPLv3](https://img.shields.io/badge/license-AGPL--v3-blue) |
 
 > *See the full list in our **[Awesome TU/e EdTech](https://github.com/TUe-EdTech/awesome-tue-edtech)** repository.*
-> *Browse **[archived projects](https://github.com/TUe-EdTech/open-source-archive)** for finished DRIVE initiatives.*
 
 
 ## Contributing
