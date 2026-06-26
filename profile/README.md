@@ -39,7 +39,7 @@ New to GitHub or open source? Check out the **[Getting Started Guide](https://do
 Find out how to **open-source your EdTech** in our **[Open Source Guide for EdTech at TU/e](https://github.com/TUe-EdTech/open-sourcing-edtech)**, tailored to TU/e processes, regulations and support.
 
 ### Archived Projects
-Explore finished DRIVE projects in our **[Open Source Archive](https://github.com/TUe-EdTech/open-source-archive)**.
+Explore finished EdTech projects that are not actively maintained anymore in our **[Open Source Archive](https://github.com/TUe-EdTech/open-source-archive)**.
 
 ---
 *Maintained by [DRIVE](https://drive.tue.nl/drive) at TU/e.*
