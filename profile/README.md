@@ -32,16 +32,16 @@ This GitHub organization is a **central hub** for discovering, sharing, and pres
 2. **Feature on our awesome list**: See our [contribution guidelines](https://github.com/TUe-EdTech/awesome-tue-edtech?tab=contributing-ov-file) for adding your project to the curated [awesome list](https://github.com/TUe-EdTech/awesome-tue-edtech).
 3. **Archive a repo**: See our [contribution guidelines](https://github.com/TUe-EdTech/open-source-archive?tab=contributing-ov-file) for archiving repos or linking your own archived repo to our [archived projects](https://github.com/TUe-EdTech/open-source-archive) page.
 
+<br>
+
 ### Get Started with Open Source
 New to GitHub or open source? Check out the **[Getting Started Guide](https://docs.github.com/en/get-started)** and **[Open Source Guide for EdTech at TU/e](https://github.com/TUe-EdTech/open-sourcing-edtech)**.
 
 ### Open Sourcing EdTech at TU/e
 Find out how to **open-source your EdTech** in our **[Open Source Guide for EdTech at TU/e](https://github.com/TUe-EdTech/open-sourcing-edtech)**, tailored to TU/e processes, regulations and support.
 
-### Archived Projects
-Explore finished EdTech projects that are not actively maintained anymore in our **[Open Source Archive](https://github.com/TUe-EdTech/open-source-archive)**.
+<br>
 
----
 *Maintained by [DRIVE](https://drive.tue.nl/drive) at TU/e.*
 
 <a href="https://drive.tue.nl/drive/" target="_blank">
