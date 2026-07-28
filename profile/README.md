@@ -17,8 +17,8 @@ This GitHub organization is a **central hub** for discovering, sharing, and pres
 
 | Project | Description | License |
 |---------|-------------|---------|
-| **[Automated assessment and feedback systems](https://drive.tue.nl/projects/automated-assessment-and-feedback-systems/)** | AI-based automated assessment system that grades programming assignments and provides detailed feedback for TU/e's Machine Learning for Signal Processing course in the Department of Electrical Engineering. | ![MIT](https://img.shields.io/badge/License-MIT-yellow.svg) |
-| **[eduMRIsim](https://drive.tue.nl/projects/educational-magnetic-resonance-imaging-simulator-edumrisim/)** | Open-source MRI simulator that mimics clinical workflows for hands-on MRI education at TU/e within the department of Biomedical Engineering. | ![GPL-3.0](https://img.shields.io/badge/License-GPLv3-blue.svg) |
+| **[Automated assessment and feedback systems](https://drive.tue.nl/projects/automated-assessment-and-feedback-systems/)** | AI-based automated assessment system that grades programming assignments and provides detailed feedback for TU/e's Machine Learning for Signal Processing course in the Department of Electrical Engineering. | |
+| **[eduMRIsim](https://github.com/eduMRIsim/eduMRIsim.github.io)** | Open-source MRI simulator that mimics clinical workflows for hands-on MRI education at TU/e within the department of Biomedical Engineering. | |
 | **[Data Foundry](https://github.com/id-data-foundry/data-foundry)** | Data infrastructure platform built for the Eindhoven University of Technology Department of Industrial Design. | ![AGPLv3](https://img.shields.io/badge/license-AGPL--v3-blue) |
 
 > *See the full list in our **[Awesome TU/e EdTech](https://github.com/TUe-EdTech/awesome-tue-edtech)** repository.*
