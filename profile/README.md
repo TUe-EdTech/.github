@@ -17,9 +17,9 @@ This GitHub organization is a **central hub** for discovering, sharing, and pres
 
 | Project | Description | License |
 |---------|-------------|---------|
-| **[Automated assessment and feedback systems](https://drive.tue.nl/projects/automated-assessment-and-feedback-systems/)** | AI-based automated assessment system that grades programming assignments and provides detailed feedback for TU/e's Machine Learning for Signal Processing course in the Department of Electrical Engineering. | |
-| **[eduMRIsim](https://github.com/eduMRIsim/eduMRIsim.github.io)** | Open-source MRI simulator that mimics clinical workflows for hands-on MRI education at TU/e within the department of Biomedical Engineering. | |
-| **[Data Foundry](https://github.com/id-data-foundry/data-foundry)** | Data infrastructure platform built for the Eindhoven University of Technology Department of Industrial Design. | ![AGPLv3](https://img.shields.io/badge/license-AGPL--v3-blue) |
+| **[Waterproof](https://github.com/impermeable/)** | Waterproof is educational software designed to help students with learning the skill of proving mathematical statements. | [![License: LGPL v3](https://img.shields.io/badge/License-LGPL_v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0) |
+| **[Pluto.jl](https://github.com/fonsp/Pluto.jl)** | Pluto is an environment to work with the Julia programming language. Easy to use like Python, fast like C. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| **[Data Foundry](https://github.com/id-data-foundry/data-foundry)** | Data infrastructure platform built for the Eindhoven University of Technology Department of Industrial Design. | [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0) |
 
 > *See the full list in our **[Awesome TU/e EdTech](https://github.com/TUe-EdTech/awesome-tue-edtech)** repository.*
 
